@@ -14,17 +14,17 @@ body{
 
 .menu-title{
   text-align: center;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .container{
- position: center;
- top: 80px;
- margin: 20px; 
+ text-align: center;
+ top:60px;
+ margin: 15px; 
 }
 
 .item{
-  position: center;
+  text-align: center;
   top: 0;
   background-color: grey;
   margin: 15px;
@@ -38,7 +38,8 @@ body{
 }
 
 .item-title{
-  position: center;
+  position: middle;
+  text-align: center;
   top:0;
   right: 0px;
   background: grey; 
