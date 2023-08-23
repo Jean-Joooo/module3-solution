@@ -4,83 +4,15 @@ body {
   background-color: white;
   font-family: 'Oxygen', sans-serif;
 }
-
-*{
-  box-sizing: border-box;
-  margin:0;
-  padding:0;
-}
-
-body{
-  font-family: 'helvetica', sans-serif;  
-}
-
-.row{
-  width: 100%;
-}
-
-.menu-title{
-  text-align: center;
-  margin-bottom: 40px;
-}
-
-.container{
- position: center;
- top:60px;
- margin: 15px; 
-}
-
-.item{
-  position: center;
-  top: 0;
-  background-color:#999999;
-  margin: 15px;
-  padding: 25px;
-  border: 3px solid #000;
-}
-
-.item p{
-  margin-top: 18px;
-  text-align: justify;
-  font-size:100%;
-}
-
-.item-title{
-  position: center;
-  top:0;
-  right: 0px;
-  background: green; 
-  padding: 0px 0px;
-  border-left: 1px solid #000;
-  border-bottom: 1px solid #000;
-}
-
-#title-one {
-  background-color: grey;
-  text-align: center;
-
-} 
-
-#title-two{
-  background-color: grey;
-  text-align: center;
-
-}
-
-#title-three{
-  background-color: grey;
-    text-align: center;
-}
-
 /** HEADER **/
 #header-nav {
-  background-color: white;
+  background-color: grey;
   border-radius: 0;
   border: 0;
 }
 
 .navbar-brand {
-  padding-top: 5px;
+  padding-top: 25px;
 }
 
 .navbar-brand h1 { /* Restaurant name */
@@ -194,4 +126,69 @@ body{
   }
   /* End Header */
 
+*{
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+
+body{
+  font-family: 'helvetica', sans-serif;  
+}
+
+.row{
+  width: 100%;
+}
+
+.menu-title{
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.container{
+ position: center;
+ top:60px;
+ margin: 15px; 
+}
+
+.item{
+  position: center;
+  top: 0;
+  background-color:#999999;
+  margin: 15px;
+  padding: 25px;
+  border: 3px solid #000;
+}
+
+.item p{
+  margin-top: 18px;
+  text-align: justify;
+  font-size:100%;
+}
+
+.item-title{
+  position: center;
+  top:0;
+  right: 0px;
+  background: green; 
+  padding: 0px 0px;
+  border-left: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+
+#title-one {
+  background-color: grey;
+  text-align: center;
+
+} 
+
+#title-two{
+  background-color: grey;
+  text-align: center;
+
+}
+
+#title-three{
+  background-color: grey;
+    text-align: center;
 }
