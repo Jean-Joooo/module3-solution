@@ -13,18 +13,18 @@ body{
 }
 
 .menu-title{
-  text-align: center;
+  text-align: middle;
   margin-bottom: 30px;
 }
 
 .container{
- position: center;
+ position: middle;
  top:60px;
  margin: 15px; 
 }
 
 .item{
-  position: center;
+  position: middle;
   top: 0;
   background-color: grey;
   margin: 15px;
@@ -33,12 +33,12 @@ body{
 
 .item p{
   margin-top: 18px;
-  text-align: center;
+  text-align: middle;
   font-size:100%;
 }
 
 .item-title{
-  position: center;
+  position: middle;
   top:0;
   right: 0px;
   background: grey; 
@@ -46,17 +46,17 @@ body{
 
 #title-one {
   background-color: grey;
-  text-position: center;
+  title-one-position: middle;
 } 
 
 #title-two{
   background-color: grey;
-  text-position: center;
+  title-two-position: middle;
 }
 
 #title-three{
   background-color: grey;
-  text-position: center;
+  title-three-position: middle;
 }
 
 /* Simple Responsive Framework. */
