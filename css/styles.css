@@ -18,7 +18,7 @@ body{
 }
 
 .container{
- position: absolute;
+ position: center;
  top: 80px;
  margin: 20px; 
 }
