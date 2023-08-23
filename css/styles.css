@@ -1,9 +1,10 @@
 body {
   font-size: 16px;
-  color: black;
+  color: white;
   background-color: white;
   font-family: 'Oxygen', sans-serif;
 }
+
 /** HEADER **/
 #header-nav {
   background-color: grey;
@@ -126,67 +127,4 @@ body {
   }
   /* End Header */
 
-*{
-  box-sizing: 800px;
-  margin:10px;
-  padding:0;
-}
-
-body{
-  font-family: 'helvetica', sans-serif;  
-}
-
-.row{
-  width: 100%;
-}
-
-.menu-title{
-  text-align: center;
-  margin-bottom: 40px;
-}
-
-.container{
- position: center;
- top:60px;
- margin: 15px; 
-}
-
-.item{
-  position: center;
-  top: 0;
-  background-color:#999999;
-  margin: 15px;
-  padding: 25px;
-  border: 3px solid #000;
-}
-
-.item p{
-  margin-top: 18px;
-  text-align: justify;
-  font-size:100%;
-}
-
-.item-title{
-  position: center;
-  top:0;
-  right: 0px;
-  background: grey; 
-  padding: 0px 0px;
-  border-left: 1px solid #000;
-  border-bottom: 1px solid #000;
-}
-
-#title-one {
-  text-align: center;
-
-} 
-
-#title-two{
-  text-align: center;
-
-}
-
-#title-three{
-  background-color: grey;
-    text-align: center;
 }
