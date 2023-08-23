@@ -1,68 +1,3 @@
-*{
-  box-sizing: border-box;
-  margin:0;
-  padding:0;
-}
-
-body{
-  font-family: 'helvetica', sans-serif;  
-}
-
-.row{
-  width: 100%;
-}
-
-.menu-title{
-  text-align: middle;
-  margin-bottom: 30px;
-}
-
-.container{
- position: center;
- top:60px;
- margin: 15px; 
-}
-
-.item{
-  position: middle;
-  top: 0;
-  background-color:#999999;
-  margin: 15px;
-  padding: 25px;
-  border: 3px solid #000;
-}
-
-.item p{
-  margin-top: 18px;
-  text-align: justify;
-  font-size:100%;
-}
-
-.item-title{
-  position: middle;
-  top:0;
-  right: 0px;
-  background: grey; 
-  padding: 6px 90px;
-  border-left: 2px solid #000;
-  border-bottom: 2px solid #000;
-}
-
-#title-one {
-  background-color: grey;
-  position: middle;
-} 
-
-#title-two{
-  background-color: grey;
-  position: middle;
-}
-
-#title-three{
-  background-color: grey;
-  position: middle;
-}
-
 /* Simple Responsive Framework. */
 /*------ Desktop ------*/
 @media (min-width: 992px){
@@ -236,3 +171,68 @@ body {
   /* End Header */
 
 }
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: 'helvetica', sans-serif;  
+}
+
+.row{
+  width: 100%;
+}
+
+.menu-title{
+  text-align: middle;
+  margin-bottom: 30px;
+}
+
+.container{
+ position: center;
+ top:60px;
+ margin: 15px; 
+}
+
+.item{
+  position: middle;
+  top: 0;
+  background-color:#999999;
+  margin: 15px;
+  padding: 25px;
+  border: 3px solid #000;
+}
+
+.item p{
+  margin-top: 18px;
+  text-align: justify;
+  font-size:100%;
+}
+
+.item-title{
+  position: middle;
+  top:0;
+  right: 0px;
+  background: grey; 
+  padding: 6px 90px;
+  border-left: 2px solid #000;
+  border-bottom: 2px solid #000;
+}
+
+#title-one {
+  background-color: grey;
+  position: middle;
+} 
+
+#title-two{
+  background-color: grey;
+  position: middle;
+}
+
+#title-three{
+  background-color: grey;
+  position: middle;
+}
+
