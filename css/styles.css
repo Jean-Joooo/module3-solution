@@ -4,6 +4,12 @@ body {
   background-color: white;
   font-family: 'Oxygen', sans-serif;
 }
+h2{
+color-text: black
+font-size: 30px;
+background-color: white;
+font-family: 'Oxygen', sans-serif;
+}
 *{
   box-sizing: border-box;
   margin:0;
@@ -16,7 +22,7 @@ body{
 
 .row{
   width: 100%;
-}
+  }
 
 .menu-title{
   text-align: center;
