@@ -46,25 +46,30 @@ body{
 }
 
 .item-title{
-  position: absolute;
+  position: center;
   top:0;
   right: 0px;
   background: green; 
-  padding: 6px 90px;
-  border-left: 2px solid #000;
-  border-bottom: 2px solid #000;
+  padding: 0px 0px;
+  border-left: 1px solid #000;
+  border-bottom: 1px solid #000;
 }
 
 #title-one {
   background-color: grey;
+  text-align: center;
+
 } 
 
 #title-two{
   background-color: grey;
+  text-align: center;
+
 }
 
 #title-three{
   background-color: grey;
+    text-align: center;
 }
 
 /** HEADER **/
@@ -75,7 +80,7 @@ body{
 }
 
 .navbar-brand {
-  padding-top: 25px;
+  padding-top: 10px;
 }
 
 .navbar-brand h1 { /* Restaurant name */
