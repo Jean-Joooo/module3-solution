@@ -13,18 +13,18 @@ body{
 }
 
 .menu-title{
-  text-align: middle;
+  text-align: center;
   margin-bottom: 30px;
 }
 
 .container{
- position: middle;
+ position: center;
  top:60px;
  margin: 15px; 
 }
 
 .item{
-  position: middle;
+  position: center;
   top: 0;
   background-color: grey;
   margin: 15px;
@@ -33,12 +33,12 @@ body{
 
 .item p{
   margin-top: 18px;
-  text-align: justify;
+  text-align: center;
   font-size:100%;
 }
 
 .item-title{
-  position: middle;
+  position: center;
   top:0;
   right: 0px;
   background: grey; 
@@ -46,17 +46,17 @@ body{
 
 #title-one {
   background-color: grey;
-  position: middle;
+  text-position: center;
 } 
 
 #title-two{
   background-color: grey;
-  position: middle;
+  text-position: center;
 }
 
 #title-three{
   background-color: grey;
-  position: middle;
+  text-position: center;
 }
 
 /* Simple Responsive Framework. */
@@ -139,7 +139,7 @@ body{
 
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
-  color: #557c3e;
+  color: black;
   font-size: 1.5em;
   text-transform: uppercase;
   font-weight: bold;
@@ -152,7 +152,7 @@ body{
   text-decoration: none;
 }
 .navbar-brand p { /* Kosher cert */
-  color: #000;
+  color: black;
   text-transform: uppercase;
   font-size: .7em;
   margin-top: 15px;
@@ -165,7 +165,7 @@ body{
   margin-top: 10px;
 }
 #nav-list a {
-  color: #951C49;
+  color: black;
   text-align: center;
 }
 #nav-list a:hover {
