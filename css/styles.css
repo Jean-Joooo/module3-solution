@@ -14,6 +14,7 @@ body{
 
 .menu-title{
   text-align: middle;
+  position: middle;
   margin-bottom: 30px;
 }
 
@@ -46,17 +47,20 @@ body{
 
 #title-one {
   background-color: grey;
-  title-one-position: middle;
+  title-position: middle;
+  position: middle;
 } 
 
 #title-two{
   background-color: grey;
-  title-two-position: middle;
+  title-position: middle;
+  position: middle;
 }
 
 #title-three{
   background-color: grey;
-  title-three-position: middle;
+  title-position: middle;
+  position: middle;
 }
 
 /* Simple Responsive Framework. */
