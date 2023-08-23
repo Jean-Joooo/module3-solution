@@ -13,7 +13,7 @@ body{
 }
 
 .menu-title{
-  text-align: center;
+  text-align: middle;
   margin-bottom: 30px;
 }
 
@@ -24,7 +24,7 @@ body{
 }
 
 .item{
-  position: center;
+  position: middle;
   top: 0;
   background-color:#999999;
   margin: 15px;
@@ -39,7 +39,7 @@ body{
 }
 
 .item-title{
-  position: absolute;
+  position: middle;
   top:0;
   right: 0px;
   background: grey; 
@@ -50,17 +50,17 @@ body{
 
 #title-one {
   background-color: grey;
-  position: center;
+  position: middle;
 } 
 
 #title-two{
   background-color: grey;
-  position: center;
+  position: middle;
 }
 
 #title-three{
   background-color: grey;
-  position: center;
+  position: middle;
 }
 
 /* Simple Responsive Framework. */
