@@ -21,7 +21,7 @@ body{
 
 .menu-title{
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 .container{
@@ -80,7 +80,7 @@ body{
 }
 
 .navbar-brand {
-  padding-top: 10px;
+  padding-top: 5px;
 }
 
 .navbar-brand h1 { /* Restaurant name */
