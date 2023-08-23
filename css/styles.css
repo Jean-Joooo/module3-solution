@@ -40,7 +40,7 @@ body{
 
 .item p{
   margin-top: 18px;
-  text-align: justify;
+  text-align: center;
   font-size:100%;
 }
 
@@ -50,23 +50,21 @@ body{
   right: 0px;
   background: green; 
   padding: 0px 20px;
-  border-left: 2px solid #000;
-  border-bottom: 2px solid #000;
 }
 
 #title-one {
   background-color: grey;
-  position: middle;
+  position: center;
 } 
 
 #title-two{
   background-color: grey;
-  position: middle;
+  position: center;
 }
 
 #title-three{
   background-color: grey;
-  position: middle;
+  position: center;
 }
 
 /* Simple Responsive Framework. */
@@ -223,13 +221,6 @@ body{
     padding-top: 10px;
     font-size: 5vw; /* 1vw = 1% of viewport width */
   }
-  .navbar-brand p { /* Kosher cert */
-    font-size: .6em;
-    margin-top: 12px;
-  }
-  .navbar-brand p img { /* Star-K */
-    height: 20px;
-  }
 
   #collapsable-nav a { /* Collapsed nav menu text */
     font-size: 1.2em;
@@ -239,21 +230,6 @@ body{
     margin-right: 5px;
   }
 
-  #call-btn > a {
-    font-size: 1.5em;
-    display: block;
-    margin: 0 20px;
-    padding: 10px;
-    border: 2px solid #fff;
-    background-color: #f6b319;
-    color: #951c49;
-  }
-  #xs-deliver {
-    margin-top: 5px;
-    font-size: .7em;
-    letter-spacing: .1em;
-    text-transform: uppercase;
-  }
   /* End Header */
 
 }
