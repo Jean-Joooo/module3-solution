@@ -127,8 +127,8 @@ body {
   /* End Header */
 
 *{
-  box-sizing: border-box;
-  margin:0;
+  box-sizing: 800px;
+  margin:10px;
   padding:0;
 }
 
@@ -177,13 +177,11 @@ body{
 }
 
 #title-one {
-  background-color: grey;
   text-align: center;
 
 } 
 
 #title-two{
-  background-color: grey;
   text-align: center;
 
 }
