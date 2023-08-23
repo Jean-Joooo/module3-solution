@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin:0;
   padding:0;
+  width: 100vw
 }
 
 body{
@@ -40,9 +41,6 @@ body{
 .item-title{
   position: middle;
   text-align: center;
-  top:0;
-  right: 0px;
-  background: grey; 
 }
 
 #title-one {
