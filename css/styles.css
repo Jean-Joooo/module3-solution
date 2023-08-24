@@ -32,12 +32,6 @@ body{
   padding: 25px;
 }
 
-.item p{
-  margin-top: 18px;
-  text-align: center;
-  font-size:100%;
-}
-
 .item-title{
   position: middle;
   text-align: center;
