@@ -20,7 +20,7 @@ body{
 
 .container{
  width: 100vw
- container-position: center;
+ position: relative;
  text-align: center;
  top:60px;
  margin-top: 15px; 
