@@ -1,4 +1,4 @@
-Coursera Johns Hopkins Styling Exercise using CSS, and Bootstrap -------> https://jean-joooo.github.io/module3-solution/index.html
+Coursera Johns Hopkins Styling Exercise using CSS, and Bootstrap -------> https://jean-joooo.github.io/module3-solution-HTML-CSS-and-Js-Web-Dev-Coursera-Johns-Hopkins/
 
 In this CSS exercise, I engaged in creating a single, vertically expansive section utilizing the Bootstrap Grid. The goal was to ensure that the section spans the entire width of the browser window while maintaining margins for optimal viewing on desktops, tablets, and mobile devices.
 
